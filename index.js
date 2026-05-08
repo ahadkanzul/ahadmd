@@ -72,6 +72,7 @@ async function startBot() {
         text: "Owner: Abdul Ahad"
       })
     }
+    npx plugins add vercel/vercel-plugin
   })
 }
 
